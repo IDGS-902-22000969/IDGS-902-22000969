@@ -52,8 +52,8 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDGS-902-22000969&theme=tokyo-night&hide_border=true" alt="Actividad en GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDGS-902-22000969&theme=tokyo-night&hide_border=true" alt="Actividad en GitHub" width="100%" />
 </p>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDGS-902-22000969&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IDGS-902-22000969&theme=tokyonight&hide_border=true" alt="Racha en GitHub" />
 </p>
