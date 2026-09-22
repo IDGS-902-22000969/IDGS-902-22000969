@@ -48,12 +48,12 @@
 * 🏫 **Sistema de Control Escolar:** Plataforma de gestión institucional con modelado relacional en SQL y consumo de APIs REST.
 
 ---
+### 📊 Actividad y Perfil
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDGS-902-22000969&theme=tokyo-night&hide_border=true" alt="Actividad en GitHub" width="100%" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IDGS-902-22000969&theme=tokyonight&hide_border=true" alt="Racha en GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IDGS-902-22000969&style=for-the-badge&color=blueviolet" alt="Visitas al perfil" />
 </p>
