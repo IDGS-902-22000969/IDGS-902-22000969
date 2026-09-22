@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 **Lenguajes y Backend**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,14 +41,14 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 * 🍽️ **"El Zarape" (Web, Móvil & IoT):** Sistema de punto de venta y autopago con avisadores digitales en tiempo real vía IoT y aplicación nativa para servicio *drive-thru*.
 * 🎒 **Mochila Asistente:** Proyecto interactivo que combina integración de hardware con software para soporte al usuario.
 * 🏫 **Sistema de Control Escolar:** Plataforma de gestión institucional con modelado relacional en SQL y consumo de APIs REST.
 
 ---
-### 📊 Actividad y Perfil
+### Actividad y Perfil
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IDGS-902-22000969&theme=tokyonight&hide_border=true" alt="Racha en GitHub" />
