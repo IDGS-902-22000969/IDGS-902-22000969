@@ -43,9 +43,9 @@
 
 ###  Proyectos Destacados
 
-* 🍽️ **"El Zarape" (Web, Móvil & IoT):** Sistema de punto de venta y autopago con avisadores digitales en tiempo real vía IoT y aplicación nativa para servicio *drive-thru*.
-* 🎒 **Mochila Asistente:** Proyecto interactivo que combina integración de hardware con software para soporte al usuario.
-* 🏫 **Sistema de Control Escolar:** Plataforma de gestión institucional con modelado relacional en SQL y consumo de APIs REST.
+ **"El Zarape" (Web, Móvil & IoT):** Sistema de punto de venta y autopago con avisadores digitales en tiempo real vía IoT y aplicación nativa para servicio *drive-thru*.
+ **Mochila Asistente:** Proyecto interactivo que combina integración de hardware con software para soporte al usuario.
+ **Sistema de Control Escolar:** Plataforma de gestión institucional con modelado relacional en SQL y consumo de APIs REST.
 
 ---
 ### Actividad y Perfil
